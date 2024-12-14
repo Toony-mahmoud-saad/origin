@@ -1,2 +1,2 @@
-alert("toony is the best")
+alert("Hi, World!✋")
 
