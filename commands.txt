@@ -1,0 +1,164 @@
+
+
+   13  git
+   14  clear
+   15  .explorer
+   16  clear
+   17  cd Desktop/
+   18  git inti "Repo"
+   19  git init "Repo"
+   20  ls
+   21  cd Repo/
+   22  ls
+   23  ls -a
+   24  git status
+   25  clear
+   26  touch index.html
+   27  ls
+   28  git status
+   29  git add index.html
+   30  git status
+   31  git commit -m "created index.html"
+   32  git status
+   33  git log
+   34  clear
+   35  touch style.css
+   36  touch scribt.js
+   37  git status
+   38  git add scribt.js style.css
+   39  git status
+   40  git commit -m "created scribt.js and style.css"
+   41  git log
+   42  clear
+   43  git status
+   44  git add index.html style.css scribt.js
+   45  git status
+   46  git commit -m "create center toony word and alert"
+   47  git status
+   48  git log
+   49  clear
+   50  git status
+   51  git add style.css
+   52  git status
+   53  git commit -m "changed background color "
+   54  git status
+   55  git log
+   56  clear
+   57  git log
+   58  git checkout 2ae4041f9eef56f8cf5f9bf6f9420c8703af7548
+   59  clear
+   60  git branch
+   61  git checkout master
+   62  git status
+   63  clear
+   64  git checkout "toony"
+   65  git branch toony
+   66  git status
+   67  git checkout toony
+   68  git log
+   69  git status
+   70  git add index.html style.css scribt.js
+   71  git status
+   72  git commit -m "changed all color in the project"
+   73  git status
+   74  git log
+   75  git branch
+   76  clear
+   77  git checkout master
+   78  git log
+   79  git branch
+   80  git merge toony
+   81  git log
+   82  history
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
